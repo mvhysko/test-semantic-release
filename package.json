@@ -5,7 +5,7 @@
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvhysko/test-semantic-release.git"
+    "url": "git@github.com:mvhysko/test-semantic-release.git"
   },
   "scripts": {
     "start": "node src/index",
