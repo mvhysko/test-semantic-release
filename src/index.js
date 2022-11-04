@@ -8,3 +8,4 @@ const sayHello = () => {
 }
 
 sayHello();
+sayBuy();
