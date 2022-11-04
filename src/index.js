@@ -1,6 +1,6 @@
 
-const sayBuy = () => {
-  console.log('Buy buy');
+const sayBuy = (message) => {
+  console.log(`Buy buy: ${message}`);
 }
 
 const sayHello = () => {
@@ -8,4 +8,4 @@ const sayHello = () => {
 }
 
 sayHello();
-sayBuy();
+sayBuy('Good night');
