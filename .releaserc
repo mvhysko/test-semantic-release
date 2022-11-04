@@ -28,14 +28,14 @@
       "name": "main"
     },
     {
-      "name": "development",
-      "channel": "dev",
-      "prerelease": "dev"
-    },
-    {
       "name": "staging",
       "channel": "rc",
       "prerelease": "rc"
+    },
+    {
+      "name": "development",
+      "channel": "dev",
+      "prerelease": "dev"
     }
   ],
   "ci": false
