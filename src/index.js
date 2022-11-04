@@ -1,6 +1,6 @@
 
 const sayBuy = () => {
-  console.log('Hello world of semantic-release! This is Max.');
+  console.log('Buy buy');
 }
 
 const sayHello = () => {
